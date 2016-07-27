@@ -1,0 +1,23 @@
+{
+  "name": "niqatless",
+  "version": "1.0.1",
+  "description": "A module that transforms Arabic text to dotless script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ODNA/niqatless.git"
+  },
+  "keywords": [
+    "arabic",
+    "dotless"
+  ],
+  "author": "burawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ODNA/niqatless/issues"
+  },
+  "homepage": "https://github.com/ODNA/niqatless#readme"
+}
